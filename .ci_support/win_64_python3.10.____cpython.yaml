@@ -19,4 +19,4 @@ python:
 target_platform:
 - win-64
 zlib_ng:
-- '2.2'
+- '2.3'
