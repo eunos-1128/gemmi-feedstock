@@ -34,4 +34,4 @@ zip_keys:
 - - c_compiler_version
   - cxx_compiler_version
 zlib_ng:
-- '2.2'
+- '2.3'
